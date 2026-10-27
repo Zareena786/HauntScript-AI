@@ -40,4 +40,4 @@ This project can be further expanded by to generate stories of more diverse genr
 
 
 ## Author/Project Developer:
-1. Adwaith Binoy
+1. Zareena Firdouse
